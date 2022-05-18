@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 94dc4fda176ed9a469fa48dcaee7ec47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1419497149888443653
+    second: chads_0
+  - first:
+      213: -6865248077977069180
+    second: chads_1
+  - first:
+      213: 8529603085464248543
+    second: chads_2
+  - first:
+      213: -2308055148396163646
+    second: chads_3
+  - first:
+      213: -1071532635449206953
+    second: chads_4
+  - first:
+      213: 9182156123361916548
+    second: chads_5
+  - first:
+      213: -2624095830854706815
+    second: chads_6
+  - first:
+      213: 3014953061911640768
+    second: chads_7
+  - first:
+      213: 7759821690441965671
+    second: chads_8
+  - first:
+      213: 3797469230353255278
+    second: chads_9
+  - first:
+      213: -7992604785870892989
+    second: chads_10
+  - first:
+      213: -5196723401876008738
+    second: chads_11
+  - first:
+      213: 2726329020304938766
+    second: chads_12
+  - first:
+      213: -4664327361218227991
+    second: chads_13
+  - first:
+      213: 8559116356455090824
+    second: chads_14
+  - first:
+      213: 4713875174741179174
+    second: chads_15
+  - first:
+      213: -1729862435449209712
+    second: chads_16
+  - first:
+      213: 2892446368598670237
+    second: chads_17
+  - first:
+      213: 3054904492038119435
+    second: chads_18
+  - first:
+      213: 4388515755676346851
+    second: chads_19
+  - first:
+      213: 4932296402081677315
+    second: chads_20
+  - first:
+      213: -2571495682264539892
+    second: chads_21
+  - first:
+      213: -4207242882668361428
+    second: chads_22
+  - first:
+      213: 5134729115778188750
+    second: chads_23
+  - first:
+      213: 8539266627450400935
+    second: chads_24
+  - first:
+      213: -1386015774670608222
+    second: chads_25
+  - first:
+      213: 4486054000788211035
+    second: chads_26
+  - first:
+      213: 257829115208863458
+    second: chads_27
+  - first:
+      213: 7716009074456138831
+    second: chads_28
+  - first:
+      213: 8356303732306650468
+    second: chads_29
+  - first:
+      213: 5438594120472300454
+    second: chads_30
+  - first:
+      213: -7879277920123455398
+    second: chads_31
+  - first:
+      213: -4367016748573176346
+    second: chads_32
+  - first:
+      213: 9013746307513248725
+    second: chads_33
+  - first:
+      213: -1625982936066747622
+    second: chads_34
+  - first:
+      213: -1727956147343928430
+    second: chads_35
+  - first:
+      213: -5509684286822176237
+    second: chads_36
+  - first:
+      213: 3363542726683011711
+    second: chads_37
+  - first:
+      213: 9146726953207855400
+    second: chads_38
+  - first:
+      213: -2550720308190707286
+    second: chads_39
+  - first:
+      213: -7705978954296517665
+    second: chads_40
+  - first:
+      213: 3722218722702223674
+    second: chads_41
+  - first:
+      213: -4307012360315429522
+    second: chads_42
+  - first:
+      213: 5903886823154619316
+    second: chads_43
+  - first:
+      213: -1914203232556264331
+    second: chads_44
+  - first:
+      213: 7280762957397299196
+    second: chads_45
+  - first:
+      213: 7685888775329870076
+    second: chads_46
+  - first:
+      213: 5698220046102903005
+    second: chads_47
+  - first:
+      213: 3489148117008193849
+    second: chads_48
+  - first:
+      213: 5865277009885181695
+    second: chads_49
+  - first:
+      213: 4880389633069550491
+    second: chads_50
+  - first:
+      213: 7530501925010584508
+    second: chads_51
+  - first:
+      213: 2001692677958149412
+    second: chads_52
+  - first:
+      213: 6835890225400842142
+    second: chads_53
+  - first:
+      213: 3027845242980760173
+    second: chads_54
+  - first:
+      213: -934759848964156229
+    second: chads_55
+  - first:
+      213: -4098289154227769462
+    second: chads_56
+  - first:
+      213: -3603856031314536335
+    second: chads_57
+  - first:
+      213: 4752536227590070552
+    second: chads_58
+  - first:
+      213: 1557108673023070596
+    second: chads_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chads_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 758
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b7c2132113b310800000000000000
+      internalID: 1419497149888443653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 758
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895e392f3db9b0a0800000000000000
+      internalID: -6865248077977069180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 758
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02c2080dc3f5670800000000000000
+      internalID: 8529603085464248543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 758
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdc5d5321428ffd0800000000000000
+      internalID: -2308055148396163646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 758
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757dfcaceb62121f0800000000000000
+      internalID: -1071532635449206953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 758
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4863a2558529d6f70800000000000000
+      internalID: 9182156123361916548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_6
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 758
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1895251beb6559bd0800000000000000
+      internalID: -2624095830854706815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 758
+        width: 106
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca38bdf5d347d920800000000000000
+      internalID: 3014953061911640768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_8
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 758
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7602a23d6bc60bb60800000000000000
+      internalID: 7759821690441965671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 758
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8ea8252253b430800000000000000
+      internalID: 3797469230353255278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 612
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340141c3b40941190800000000000000
+      internalID: -7992604785870892989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 612
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09833799781e7b0800000000000000
+      internalID: -5196723401876008738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 612
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075d1c9ccdd5d520800000000000000
+      internalID: 2726329020304938766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 612
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d3764afaf44fb0800000000000000
+      internalID: -4664327361218227991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 612
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88acdb16af618c670800000000000000
+      internalID: 8559116356455090824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 612
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bfaf90f7c0b6140800000000000000
+      internalID: 4713875174741179174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 612
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf1c8b74b4ef7e0800000000000000
+      internalID: -1729862435449209712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_17
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 612
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b313cb5a8042820800000000000000
+      internalID: 2892446368598670237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_18
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 612
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006dae2373356a20800000000000000
+      internalID: 3054904492038119435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_19
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 612
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e92b4414d327ec30800000000000000
+      internalID: 4388515755676346851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 454
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300040df179037440800000000000000
+      internalID: 4932296402081677315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 454
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ddb252d46305cd0800000000000000
+      internalID: -2571495682264539892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 454
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2903ce93eedc95c0800000000000000
+      internalID: -4207242882668361428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 454
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec580d30de8324740800000000000000
+      internalID: 5134729115778188750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_24
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 460
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0778331c1918670800000000000000
+      internalID: 8539266627450400935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 460
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8aba11ff1e3cce0800000000000000
+      internalID: -1386015774670608222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_26
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 460
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558338785aa14e30800000000000000
+      internalID: 4486054000788211035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_27
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 460
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee07c8d63ef39300800000000000000
+      internalID: 257829115208863458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_28
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 460
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4416ae3f55c41b60800000000000000
+      internalID: 7716009074456138831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_29
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 460
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a86f88fd87f370800000000000000
+      internalID: 8356303732306650468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 315
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8744a984c97b40800000000000000
+      internalID: 5438594120472300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 315
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5876745a7e27a290800000000000000
+      internalID: -7879277920123455398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 315
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4d15976d3563c0800000000000000
+      internalID: -4367016748573176346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 315
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe0d28282471d70800000000000000
+      internalID: 9013746307513248725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_34
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 322
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1315ec62295f69e0800000000000000
+      internalID: -1625982936066747622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 322
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293dc120a011508e0800000000000000
+      internalID: -1727956147343928430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_36
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 322
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa96b255ba983b0800000000000000
+      internalID: -5509684286822176237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_37
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 322
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2ac20a44bdae20800000000000000
+      internalID: 3363542726683011711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_38
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 322
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f177d3b3bfee70800000000000000
+      internalID: 9146726953207855400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_39
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 322
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10becd4650a9cd0800000000000000
+      internalID: -2550720308190707286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 170
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb158618fcde0590800000000000000
+      internalID: -7705978954296517665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_41
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 170
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3969f6053af7a330800000000000000
+      internalID: 3722218722702223674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 170
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9e2ce31b6a34c0800000000000000
+      internalID: -4307012360315429522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 170
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39d3819c1dee150800000000000000
+      internalID: 5903886823154619316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_44
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 170
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57454974d426f65e0800000000000000
+      internalID: -1914203232556264331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_45
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 170
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff0d79a5577a0560800000000000000
+      internalID: 7280762957397299196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_46
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 170
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f2bc9e13c9aa60800000000000000
+      internalID: 7685888775329870076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_47
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 170
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd839f301f4241f40800000000000000
+      internalID: 5698220046102903005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_48
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 170
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391ff2e9b1fb6030800000000000000
+      internalID: 3489148117008193849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_49
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 170
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b87b6d56a56150800000000000000
+      internalID: 5865277009885181695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0c9c8380aab340800000000000000
+      internalID: 4880389633069550491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b6ac3a97b18860800000000000000
+      internalID: 7530501925010584508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 18
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425223b92e077cb10800000000000000
+      internalID: 2001692677958149412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_53
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 18
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97059021f5fdde50800000000000000
+      internalID: 6835890225400842142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_54
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 18
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a79bec431150a20800000000000000
+      internalID: 3027845242980760173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_55
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 18
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb49134bed01703f0800000000000000
+      internalID: -934759848964156229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_56
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 18
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fea675ab3ff17c0800000000000000
+      internalID: -4098289154227769462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_57
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 18
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17819d798088cfdc0800000000000000
+      internalID: -3603856031314536335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_58
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 18
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8116eabd48664f140800000000000000
+      internalID: 4752536227590070552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chads_59
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 18
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48158349616fb9510800000000000000
+      internalID: 1557108673023070596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

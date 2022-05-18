@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b49c41d6639e7c46bb1175bdb2b7872, type: 3}
+  m_Name: Los mejores guanteletes
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: b167763d1fee84a40a5086cbf0a60d42, type: 3}
+  price: 10
+  value: 5
+  type: 1
+  equipmenttype: 2
+  description: 
